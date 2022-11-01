@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link } from 'react-router-dom'
 
 export default class 
  extends Component {
@@ -16,10 +17,10 @@ export default class
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Inicio</a>
+          <Link className="nav-link active" aria-current="page" to="#">Inicio</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Beneficios</a>
+          <Link className="nav-link active" aria-current="page" to="/Beneficios">Beneficios</Link>
         </li>
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="#">Filosfia Empresarial</a>
