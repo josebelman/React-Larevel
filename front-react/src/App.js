@@ -14,6 +14,7 @@ function App() {
 <NavbarComp/>
 <Slider/>
 <Footer/>
+
 </div>
   
 
