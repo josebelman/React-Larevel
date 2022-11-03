@@ -28,12 +28,14 @@ const Beneficios = () => {
                 <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/aves.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title text-align="center">10 Aves ponedoras</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                 <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                 <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                 <p><b>Informacion del beneficio:</b>***************</p>
+                 <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm" >Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -41,12 +43,14 @@ const Beneficios = () => {
         <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/CalentadorSolar.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Calentador Solar</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                  <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                  <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                  <p><b>Informacion del beneficio:</b>***************</p>
+                  <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm">Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -54,12 +58,14 @@ const Beneficios = () => {
         <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/fertilizante.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Fertilizantes</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                    <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                    <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                    <p><b>Informacion del beneficio:</b>***************</p>
+                    <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm">Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -67,12 +73,14 @@ const Beneficios = () => {
         <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/peces.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Peces</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                  <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                  <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                  <p><b>Informacion del beneficio:</b>***************</p>
+                  <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm">Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -83,12 +91,14 @@ const Beneficios = () => {
         <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/redes.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Redes De Pesca</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                    <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                    <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                    <p><b>Informacion del beneficio:</b>***************</p>
+                    <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm">Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -96,12 +106,14 @@ const Beneficios = () => {
         <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/reforestacion.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Reforestacion</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                    <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                    <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                    <p><b>Informacion del beneficio:</b>***************</p>
+                    <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm">Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -109,12 +121,14 @@ const Beneficios = () => {
         <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/techo.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Techo Digno</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                    <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                    <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                    <p><b>Informacion del beneficio:</b>***************</p>
+                    <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm">Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -122,12 +136,14 @@ const Beneficios = () => {
         <Card style={{ width: '16rem' }}>
               <Card.Img variant="top" src="images/Pavimentacion.jpg" />
               <Card.Body>
-                <Card.Title>Card Title</Card.Title>
+                <Card.Title>Pavimentacion</Card.Title>
                 <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                    <p><b>Fecha-Inicio:</b> 00/00/0000</p>
+                    <p><b>Fecha-Fin:</b> 00/00/0000</p>
+                    <p><b>Informacion del beneficio:</b>***************</p>
+                    <p><b>Requisitos:</b>---------------</p>
                 </Card.Text>
-                <Button variant="success" size="lg">Go somewhere</Button>
+                <Button variant="success" size="sm">Mas Informacion</Button>
               </Card.Body>
             </Card>
         </Col>
@@ -145,22 +161,11 @@ const Beneficios = () => {
         loop
         />
         </div>
-       
         </Col>
       </Row>
+      <br />
     </Container>
-    </div>
-
- 
-    
-
-
-  
-
-
-
-
-    
+    </div>  
 
   )
 }
