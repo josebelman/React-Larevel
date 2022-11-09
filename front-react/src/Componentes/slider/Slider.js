@@ -3,9 +3,9 @@ import estilos from './Slider.module.css';
 
 const imagenes = [
 	"./images/logo.png",
-	"./images/acabaro_3.jpg",
-	"./images/acueducto.jpg",
-	"./images/pasaporte2.jpg",
+	"./images/Hospital (2).jpg",
+	"./images/Redes.jpg",
+	"./images/Fertilizante.jpg",
 	"./images/aves.jpg",
 
 ];

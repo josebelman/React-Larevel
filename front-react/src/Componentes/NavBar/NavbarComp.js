@@ -1,9 +1,11 @@
-import React, { Component } from 'react'
 
-export default class 
- extends Component {
+import React from 'react';
+class NavbarComp extends React.Component {
+  
   render() {
+   
     return (
+
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
   <div className="container-fluid">
   <img
@@ -13,19 +15,19 @@ export default class
               height="40"
               className="d-inline-block align-top"
             />
-    <div className="collapse navbar-collapse" id="navbarNav">
+    <div className="" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Inicio</a>
+          <a className="nav-link active" aria-current="page" href="/">Inicio</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Beneficios</a>
+          <a className="nav-link active" aria-current="page" href="/Beneficios">Beneficios</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Filosfia Empresarial</a>
+          <a className="nav-link active" aria-current="page" href="/Filosofia">Filosfia Empresarial</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Acerca De</a>
+          <a className="nav-link active" aria-current="page" href="/Acerca">Acerca De</a>
         </li>      
       </ul>
     </div>
@@ -35,6 +37,6 @@ export default class
   }
 }
 
-
+export default NavbarComp;
 
 
